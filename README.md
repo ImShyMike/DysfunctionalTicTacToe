@@ -4,7 +4,7 @@ A tic tac toe game with a twist, made using only pygame.
 ![Demo](media/Dysfunctional_TicTacToe_Demo.gif)
 
 ## Hackathon Theme: "Functionally Dysfunctional"
-Dysfunctional TicTacToe is a game made for the Hackathon organized by [Lewis Menelaws](https://github.com/elebumm) with the theme "Functionally Dysfunctional".
+Dysfunctional TicTacToe is a game made for the Hackathon organized by [Lewis Menelaws](https://github.com/elebumm) with the theme "Functionally Dysfunctional". The game tries to annoy the player by making them complete challenges every time they want to make a move, but still functions just like regular tic tac toe.
 
 ## Requirements
 - `python>=3.10.14`
