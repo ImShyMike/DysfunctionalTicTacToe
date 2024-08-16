@@ -3,3 +3,6 @@
 
 # Ignore Pylint configuration
 .pylintrc
+
+# Why wasnt this here
+.gitattributes
